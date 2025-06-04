@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nhantran/DSA/Lab/Lab1/Recursion",
+      "program": "/Users/nhantran/DSA/Lab/Lab1/Recursion/build/Debug/outDebug"
+    }
+  ]
+}
