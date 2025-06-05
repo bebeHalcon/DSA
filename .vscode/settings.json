@@ -56,16 +56,5 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "files.associations": {
-    "array list": "cpp",
-    "__bit_reference": "cpp",
-    "string": "cpp",
-    "__split_buffer": "cpp",
-    "filesystem": "cpp",
-    "vector": "cpp",
-    "istream": "cpp",
-    "tuple": "cpp",
-    "array": "cpp"
-  },
   "C_Cpp.errorSquiggles": "disabled"
 }
